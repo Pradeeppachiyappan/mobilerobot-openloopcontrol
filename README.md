@@ -75,9 +75,7 @@ if _name_ == '_main_':
 ```
 
 ## MobileRobot Movement Image:
-![WhatsApp Image 2023-05-26 at 08 50 08](https://github.com/Afsarjumail/mobilerobot-openloopcontrol/assets/118343395/ffec9b67-6869-4ae5-91c7-091d8a7a0e6c)
-
-
+![image](https://github.com/Pradeeppachiyappan/mobilerobot-openloopcontrol/assets/118707347/f163a349-3be0-480b-b5b1-812ef5f023aa)
 
 ## MobileRobot Movement Video:
 https://youtube.com/shorts/l0xl52JHfmI?feature=share 
